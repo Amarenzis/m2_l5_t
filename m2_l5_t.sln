@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_WordLike_v2", "Lab1_WordLike\Task1_WordLike_v2.csproj", "{24C70B40-1CBF-4EA7-8AC3-D46B16FE66EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_PaintLike", "Task2_PaintLike\Task2_PaintLike.csproj", "{D8969028-009D-4FE8-A9AE-392944EC43E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C70B40-1CBF-4EA7-8AC3-D46B16FE66EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C70B40-1CBF-4EA7-8AC3-D46B16FE66EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C70B40-1CBF-4EA7-8AC3-D46B16FE66EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C70B40-1CBF-4EA7-8AC3-D46B16FE66EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8969028-009D-4FE8-A9AE-392944EC43E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8969028-009D-4FE8-A9AE-392944EC43E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8969028-009D-4FE8-A9AE-392944EC43E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8969028-009D-4FE8-A9AE-392944EC43E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A250B3-664B-441C-BD8B-5C0E23D6B067}
+	EndGlobalSection
+EndGlobal
